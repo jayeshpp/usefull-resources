@@ -30,9 +30,13 @@
 - [SPOJ](http://www.spoj.com/)
 
 ## CSS
+- [CSS Preprocessor](https://sass-lang.com/)
 
-## Design Inspiration
+## UI/UX/Design Inspiration
 - [Best Pages](http://bestpages.co/)
 
 ## Keyborad
 - [Key Code](http://keycodes.atjayjo.com/)
+
+## Security
+- [Get started with hacking](https://www.enigmagroup.org/)
