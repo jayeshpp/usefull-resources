@@ -1,6 +1,6 @@
-# Usefull Resources Links
+# Usefull Resources for developers
 
-## Git Hub
+## Github
 - [Try Github for begginers](https://try.github.io)
 - [Githut in depth](https://git-scm.com/book/en/v2)
 
@@ -12,15 +12,27 @@
 - [Design Patterns by - Addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+## React
+- [30-days of React](https://www.fullstackreact.com/30-days-of-react/)
+
 ## Emailer
 - [Cerberus](http://tedgoas.github.io/Cerberus/)
 - [Boilerplate](http://htmlemailboilerplate.com)
 
 ## Image
 - [Placeholder](https://placeholder.com/)
+- [Cloudinary](https://cloudinary.com/)
 
-## competitive programming
+## Competitive Programming
 - [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [Hacker Earth](https://www.hackerearth.com/getstarted-competitive-programming/)
 - [Codechef](https://www.codechef.com/)
 - [SPOJ](http://www.spoj.com/)
+
+## CSS
+
+## Design Inspiration
+- [Best Pages](http://bestpages.co/)
+
+## Keyborad
+- [Key Code](http://keycodes.atjayjo.com/)
