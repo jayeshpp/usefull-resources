@@ -4,6 +4,10 @@
 - [Try Github for begginers](https://try.github.io)
 - [Githut in depth](https://git-scm.com/book/en/v2)
 
+## Tech Blogs
+- [CSS Tricks](https://css-tricks.com/)
+- [Stackoverflow](https://stackoverflow.com/)
+
 ## Javascript
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript the Rightway](http://jstherightway.org/)
@@ -28,6 +32,9 @@
 - [Hacker Earth](https://www.hackerearth.com/getstarted-competitive-programming/)
 - [Codechef](https://www.codechef.com/)
 - [SPOJ](http://www.spoj.com/)
+
+## HTML
+-[Boilerplate](http://www.initializr.com/)
 
 ## CSS
 - [CSS Preprocessor](https://sass-lang.com/)
