@@ -38,10 +38,12 @@
 - [SPOJ](http://www.spoj.com/)
 
 ## HTML
--[Boilerplate](http://www.initializr.com/)
+- [Boilerplate](http://www.initializr.com/)
+- [HTML5 Tutorials](https://www.html5rocks.com/en/tutorials/)
 
 ## CSS
 - [CSS Preprocessor](https://sass-lang.com/)
+- [SVG](https://icomoon.io/)
 
 ## UI/UX/Design Inspiration
 - [Best Pages](http://bestpages.co/)
