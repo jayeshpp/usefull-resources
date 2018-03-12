@@ -15,8 +15,12 @@
 - [Javascriptissexy](http://javascriptissexy.com)
 - [Design Patterns by - Addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [ES 6](http://exploringjs.com/es6/)
+- [JS Interview Algorithm](https://www.thatjsdude.com/interview/js1.html)
+- [Airbnb Style Guide](http://airbnb.io/javascript/)
 
 ## React
+- [React.org](https://reactjs.org/)
 - [30-days of React](https://www.fullstackreact.com/30-days-of-react/)
 
 ## Emailer
@@ -41,6 +45,7 @@
 
 ## UI/UX/Design Inspiration
 - [Best Pages](http://bestpages.co/)
+- [Animation](http://mojs.io/)
 
 ## Keyborad
 - [Key Code](http://keycodes.atjayjo.com/)
