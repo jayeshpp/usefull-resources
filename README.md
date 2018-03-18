@@ -26,6 +26,7 @@
 ## Emailer
 - [Cerberus](http://tedgoas.github.io/Cerberus/)
 - [Boilerplate](http://htmlemailboilerplate.com)
+- [Emailer Template Validator](https://www.htmlemailcheck.com/check/)
 
 ## Image
 - [Placeholder](https://placeholder.com/)
