@@ -21,7 +21,6 @@
 
 ## React
 - [React.org](https://reactjs.org/)
-- [30-days of React](https://www.fullstackreact.com/30-days-of-react/)
 
 ## Emailer
 - [Cerberus](http://tedgoas.github.io/Cerberus/)
@@ -60,3 +59,6 @@
 - [Code Sandbox](https://codesandbox.io/)
 - [Code Pen](https://codepen.io/)
 - [jsfiddle](https://jsfiddle.net/)
+
+## Other
+- [Mastering Chrome DevTool]()
